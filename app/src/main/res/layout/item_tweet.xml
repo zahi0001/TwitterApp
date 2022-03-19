@@ -39,7 +39,7 @@
         tools:text= "realllllly really long to test  kuyfgdkjhbwl oiwuiusdfh  layout!" />
 
     <TextView
-        android:id="@+id/tvTime"
+        android:id="@+id/tvTimeStamp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="18dp"
