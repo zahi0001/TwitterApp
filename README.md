@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I have had problems with the JSON file. Since I just created a twitter account for this project, my home page was emty, and so is my JSON file. When I started to fill my hom page everything worked exactly how it supposed to.
 
 ## Open-source libraries used
 
